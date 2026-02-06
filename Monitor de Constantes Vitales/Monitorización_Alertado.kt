@@ -9,6 +9,7 @@
 
 
 
+
 // Importa de la biblioteca/librería "util.concurrent" el paquete "LinkedBlockingQueue". Para hacer uso de una implementación de cola bloqueante basada en una lista enlazada, que permite almacenar elementos de manera segura entre hilos de ejecución (threads). Además de ser útil para la comunicación entre productores y consumidores.
 import java.util.concurrent.LinkedBlockingQueue
 
