@@ -34,5 +34,3 @@
 | Productores  | Clientes / Sensores    | Generan el flujo de datos (Constantes vitales).                     |
 | Cola         | Canal / Red            | Medio de comunicación Full-Duplex para el transporte de señales.    |
 | Consumidores | Servidor / Servicio    | Proceso en segundo plano que monitoriza y dispara alertas.          |
-
-
