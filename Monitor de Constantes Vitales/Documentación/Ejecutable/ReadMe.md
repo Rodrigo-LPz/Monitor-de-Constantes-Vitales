@@ -1,7 +1,7 @@
 # 📋 Archivo de ejecución: 
-Guión de Comandos para Ejecutar el Programa
+Guión de Comandos para Ejecutar Directamente el Programa
 
-<br><br>
+<hr><br><br><br>
 
 ### Compilar el programa
 ###### Transforma el código fuente (.kt) en un archivo ejecutable (.jar) que contiene el bytecode de la JVM.
