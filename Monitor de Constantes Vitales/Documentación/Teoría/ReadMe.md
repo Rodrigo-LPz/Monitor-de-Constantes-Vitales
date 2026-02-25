@@ -2,7 +2,7 @@
 ### Modelo de Comunicación clásico: Sensor [Productor (cliente)] – Sensor [Consumidor (servidor)]
     Productores → Cola segura → Consumidores
 
-<hr><br><br><br><
+<hr><br><br><br>
 
 # 🧠 Conceptos/Fundamentos técnicos y teóricos aplicados
 ### Concurrencia y Multitarea
@@ -34,4 +34,5 @@
 | Productores  | Clientes / Sensores    | Generan el flujo de datos (Constantes vitales).                     |
 | Cola         | Canal / Red            | Medio de comunicación Full-Duplex para el transporte de señales.    |
 | Consumidores | Servidor / Servicio    | Proceso en segundo plano que monitoriza y dispara alertas.          |
+
 
